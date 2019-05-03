@@ -1,7 +1,10 @@
+.container {
+     width: 960px;
+}
+
 body {
   font-family: 'Libre Baskerville', serif;
-  color: white;
-  background-color: black; }
+  color: black; }
 
 i {
   color: red; }
