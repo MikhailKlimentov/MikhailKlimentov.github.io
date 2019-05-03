@@ -1,6 +1,7 @@
 body {
   font-family: 'Libre Baskerville', serif;
-  color: #cc6699; }
+  color: white;
+  background-color: black; }
 
 i {
   color: red; }
